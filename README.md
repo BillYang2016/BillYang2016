@@ -6,6 +6,8 @@ Mostly used **avatar** below. Click the image to access my [homepage](https://gi
 
 [<img src="https://www.bill.moe/images/logo.png" height="100" width="100" />](https://bill.moe)
 
+[![Bill Yang's github stats](https://github-readme-stats.vercel.app/api?username=BillYang2016&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Focusing projects
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |   :-----:   |  :-----:  |  :----:  |  :-----:  |      :-----:     |
